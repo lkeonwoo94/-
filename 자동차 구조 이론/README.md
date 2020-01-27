@@ -10,7 +10,7 @@
   <img src="https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/img/%EC%B0%A8%EB%9F%89-%EB%B0%94%EB%94%94%20%EC%83%A4%EC%8B%9C.jpg">
 
 ```
-차체 = body = 랍스터 껍데기   (현재는 모노코크 바디 방식을 대부분 사용한다. 바디 종류는 하나다~ 하고 )
+차체 = body = 랍스터 껍데기   (현재는 모노코크 바디 방식을 대부분 사용한다. 바디 종류는 한개구나 하고 넘어가자 )
 샤시 = (자동차-차체) = 껍데기 말고 나머지 부분 전부 = 랍스터 살, 내장 
 ```
 
