@@ -21,7 +21,7 @@
 <img src="https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EA%B8%B0%EC%B4%88/img/%EC%83%A4%EC%8B%9C%EB%AA%A8%EB%93%88.jpg">
 
 
-######  ~~_대충 이렇다 감만 잡고 넘어가자. 뭐가 어디에 붙었는지 정도만 _~~
+######  ~~_대충 이렇다 감만 잡고 넘어가자. 뭐가 어디에 붙었는지 정도만_~~
 
 ```
 차체+샤시 에서 언급한 또 다른 의미의 샤시인데 '샤시'라는 단어는 동일하다.
