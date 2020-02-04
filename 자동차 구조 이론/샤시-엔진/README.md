@@ -3,7 +3,7 @@
 <img src="https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%97%94%EC%A7%84.jpg">
 
 ```
-엔진은 이렇게 생겼다. 되게 철덩어리처럼 생겼지만 일단은 넘어간다. 복잡한 것은 차차 다룬다.
+엔진은 이렇게 생겼다. 철덩어리에서 중요한 것만 짚자.
 ```
 
 ---
