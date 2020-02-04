@@ -48,11 +48,11 @@
 #### ~쌀밥이냐 보리밥이냐~
 
 ![가솔린_디젤_엔진](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EA%B0%80%EC%86%94%EB%A6%B0_%EB%94%94%EC%A0%A4_%EC%97%94%EC%A7%84.jpg)
-#### 기억해야 할 것은 **구조가 다르다**
+####  **구조가 다르다**는 것만 기억하자.
 
 
 ```
-가솔린과 다르게 디젤에 **EGR**이 들어간다.
+~가솔린과 다르게 디젤에 **EGR**이 들어간다.~ 전자제어 영역
 ```
 
 | | | |
@@ -65,6 +65,9 @@
 |연비| 나쁨 | 좋음 |
 
 
+
+
+>> ## 가솔린 엔진은 한번 더 나뉜다. GDI와 MPI
 
 ![GDI_MPI](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%97%94%EC%A7%84%EB%B0%A9%EC%8B%9D-GDI-MPI.png)
 
@@ -82,18 +85,13 @@ MPI = Multiple = 나눠서 분사  / 찌꺼기가 씻겨 내려간다. 냉각성
 
 
 
->  # 엔진 기통 수
+>  # 엔진 기통 수에 따른 효과와 작동순서
 
-
-
-![실린더종류](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%8B%A4%EB%A6%B0%EB%8D%94%EB%B0%B0%EC%97%B4.png)
-#### 실린더(밥통)구조 : L형(직렬) , V형
 
 ![4기통순서](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/4%EA%B8%B0%ED%86%B5%20%EC%88%9C%EC%84%9C.png)
 #### 1342가 4기통 엔진 때리는 순서.
 #### 5기통(무쏘)는 12453
 ###### (참조 : http://jwkang7.wo.to/pds04/EN-04%20%20%ED%81%AC%EB%9E%AD%ED%81%AC%EC%B6%95%EA%B3%BC%20%EC%A0%90%ED%99%94%EC%88%9C%EC%84%9C.swf )
-
 
 
 ```
@@ -104,12 +102,16 @@ MPI = Multiple = 나눠서 분사  / 찌꺼기가 씻겨 내려간다. 냉각성
 ```
 
 
+
+
 ~엔진 뜨거워짐 -> 냉각수 필요~
 
 
 
 
 ----
+
+> # 냉각장치
 
 
 
@@ -120,12 +122,7 @@ MPI = Multiple = 나눠서 분사  / 찌꺼기가 씻겨 내려간다. 냉각성
 플라이휠 : 처음에 돌릴때 (관성, 트랙터 제초기 생각하면 됨)
 발전기
 타이밍벨트 (휠, 피스톤, 발전기)
-축 점화순서
-냉각장치
 
 유해가스
 
 
-> # 엔진 전자제어
- 
-흡기 - 엔진 -배기 - 머플러
