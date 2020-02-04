@@ -92,7 +92,10 @@ MPI = Multiple = 나눠서 분사  / 찌꺼기가 씻겨 내려간다. 냉각성
 ![4기통순서](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/4%EA%B8%B0%ED%86%B5%20%EC%88%9C%EC%84%9C.png)
 #### 1342가 4기통 엔진 때리는 순서.
 #### 5기통(무쏘)는 12453
-(참조 : http://jwkang7.wo.to/pds04/EN-04%20%20%ED%81%AC%EB%9E%AD%ED%81%AC%EC%B6%95%EA%B3%BC%20%EC%A0%90%ED%99%94%EC%88%9C%EC%84%9C.swf )
+###### (참조 : http://jwkang7.wo.to/pds04/EN-04%20%20%ED%81%AC%EB%9E%AD%ED%81%AC%EC%B6%95%EA%B3%BC%20%EC%A0%90%ED%99%94%EC%88%9C%EC%84%9C.swf )
+
+
+
 ```
 배기량이나 기통수가 늘어나면 힘이 세진다
 
