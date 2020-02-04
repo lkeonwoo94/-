@@ -1,4 +1,10 @@
 # 엔진
+                                                                  엔진RPM 700~800
+시동건다(키박스) -> 플라이 휠 돌아감 -> 타이밍벨트 -> 엔진피스톤 -> 엔진구동 & 연료펌프 ->  엔진뜨거워짐 -> 냉각기관
+                                                                  흡기- 실린더 - 배기
+                                                                  공기 주입 (전자제어부분) 
+
+
 
 <img src="https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%97%94%EC%A7%84.jpg">
 
