@@ -44,17 +44,25 @@
 #### ~쌀밥이냐 보리밥이냐~
 
 ![가솔린_디젤_엔진](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EA%B0%80%EC%86%94%EB%A6%B0_%EB%94%94%EC%A0%A4_%EC%97%94%EC%A7%84.jpg)
+#### 기억해야 할 것은 **구조가 다르다**
 
 
+```
+가솔린과 다르게 디젤에 **EGR**이 들어간다.
+```
 
-| | |
+| | | |
 |--|--|--|
 |연료|가솔린(휘발유) | 디젤(경유) |
 |점화|전기불꽃|자연발화(압축착화)|
 |점화원| 有 | 無 |
 |발화점|낮음|높음|
 |배출가스| Co2 | NOx|
+|연비| 나쁨 | 좋음 |
 
+
+
+![GDI_MPI](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%97%94%EC%A7%84%EB%B0%A9%EC%8B%9D-GDI-MPI.png)
 
 ```
 GDI = Direct = 직접분사 = 유(油) 증기에 발화. 액체에 불 붙는거 아니다. / 불완전연소패턴이다 -> 배기가스 발생
@@ -62,10 +70,7 @@ MPI = Multiple = 나눠서 분사  / 찌꺼기가 씻겨 내려간다. 냉각성
 ```
 
 
-공기조절, 연료조절
-
-
-가솔린과 다르게 디젤에 egr 들어감.
+~*공기조절, 연료조절 수정중*~
 
 
 
