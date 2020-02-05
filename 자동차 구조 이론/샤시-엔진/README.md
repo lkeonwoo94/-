@@ -5,13 +5,13 @@
 ###### 처음 엔진을 보았을때 철덩어리처럼 생긴놈한테 이름은 무슨 열개가 넘는 부품들이 있어서 이걸 어떻게 외워야하나 싶었다.
 ###### 하지만 공부하면서 다 외울 필요는 없고 주요한 부분만 알면 되는 것을 알았다.
 
+
 **1. 엔진 동작 시퀀스**    
 **2. 엔진 동작 원리 (밥통의 원리 :: 4행정 싸이클)**    
 **3. 가솔린엔진과 디젤엔진 :: 연료에 따라 구조가 다르다.**    
-**4. 엔진 배기량(cc)와 기통 수량**    
+**4. 엔진 배기량(cc)와 기통 수량 :: 엔진RPM**    
 **5. 냉각기관 구조**    
 6. 엔진전자제어(계속)    
-
 
 
 ---
@@ -39,16 +39,12 @@
 * 흡기/배기 매니폴드 : 흡기=플라스틱 , 배기=쇠 (뜨거운 공기를 플라스틱이 감당하지 못한다)
 ```
 
+[키박스그림-플라이휠,벨트,얼터네이터(발전기) 그림 ] [클러스터 엔진rpm] [몰라도 되는 인젝터, 터보차져]
+###### [발전기를 더 알고 싶다면](https://blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=221688737716&categoryNo=14&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=2)
 
-
-
----
-
-
-
->  # 엔진의 동작원리 
+---    
+>  ## 엔진의 동작원리 (흡-압-폭-배)
 #### ~밥통의 원리~
-
 
 앞 시간 엔진==밥통 이라는 것을 기억하자.
 엔진은 어떻게 동작할까? (밥은 어떻게 지어질까?)
@@ -73,21 +69,21 @@
 2. 팔을 다시 올린다 (압축)
 3. 팔을 다시 내린다 (불붙여서 폭발해서 폭발 힘으로 피스톤(주먹) 이 아래로 내려간다)
 4. 팔을 다시 올린다 (폭발하고 만들어진 가스를 밖으로 빼내야 하니까)
-```
----
+```    
 
+---    
 
->  # 연료에 따른 엔진 분류
+>  ## 가솔린엔진과 디젤엔진
 #### ~쌀밥이냐 보리밥이냐~
 
 ![가솔린_디젤_엔진](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EA%B0%80%EC%86%94%EB%A6%B0_%EB%94%94%EC%A0%A4_%EC%97%94%EC%A7%84.jpg)
-####  **구조가 다르다**는 것만 기억하자.
-
-
+#####  연료에 따라 **구조가 다르다**    
+##### 가솔린 엔진은 한번 더 나뉜다. **GDI와 MPI**
 ```
-~가솔린과 다르게 디젤에 **EGR**이 들어간다.~ 전자제어 영역
+GDI = Direct = 직접분사 = 유(油) 증기에 발화. 액체에 불 붙는거 아니다. / 불완전연소패턴이다 -> 배기가스 발생
+MPI = Multiple = 나눠서 분사  / 찌꺼기가 씻겨 내려간다. 냉각성능이 좋다
 ```
-
+    
 | | | |
 |--|--|--|
 |연료|가솔린(휘발유) | 디젤(경유) |
@@ -96,60 +92,46 @@
 |발화점|낮음|높음|
 |배출가스| Co2 | NOx|
 |연비| 나쁨 | 좋음 |
-
-
-
-
->> ## 가솔린 엔진은 한번 더 나뉜다. GDI와 MPI
-
-![GDI_MPI](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%97%94%EC%A7%84%EB%B0%A9%EC%8B%9D-GDI-MPI.png)
-
+    
 ```
-GDI = Direct = 직접분사 = 유(油) 증기에 발화. 액체에 불 붙는거 아니다. / 불완전연소패턴이다 -> 배기가스 발생
-MPI = Multiple = 나눠서 분사  / 찌꺼기가 씻겨 내려간다. 냉각성능이 좋다
+Q.디젤엔진이 가솔린 엔진보다 연비가 좋은 이유.
+
+A. 흡-압-폭-배 의 4행정에서, 피스톤이 움직이는 힘은 **압축**이 많이 될 수록 높다. 가솔린의 압축비는 11:1 이며, 디젤은 17.3:1이다.
 ```
+*배출가스는 엔진 전자제어에서 중요하게 작용한다. 따라서 엔진 하면 생각나는 단어들 중 하나로 배출가스를 꼭 외우자*
 
+---    
 
-~*공기조절, 연료조절 수정중*~
-
----
-
-
-
-
-
->  # 엔진 기통 수에 따른 효과와 작동순서
-
+>  ## 엔진 배기량(cc)와 기통 수량에 따른 효과와 작동순서    
 
 ![4기통순서](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/4%EA%B8%B0%ED%86%B5%20%EC%88%9C%EC%84%9C.png)
-#### 1342가 4기통 엔진 때리는 순서.
-#### 5기통(무쏘)는 12453
-###### (참조 : http://jwkang7.wo.to/pds04/EN-04%20%20%ED%81%AC%EB%9E%AD%ED%81%AC%EC%B6%95%EA%B3%BC%20%EC%A0%90%ED%99%94%EC%88%9C%EC%84%9C.swf )
 
+##### 4기통 엔진 : **1342**가 4기통 엔진 때리는 순서. [1342가 된 원리가 궁금하다면](https://blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=221759459611&categoryNo=14&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1)
+##### 5기통 엔진 : (무쏘)는 **12453** 순서로 때림
+###### (참조 : http://jwkang7.wo.to/pds04/EN-04%20%20%ED%81%AC%EB%9E%AD%ED%81%AC%EC%B6%95%EA%B3%BC%20%EC%A0%90%ED%99%94%EC%88%9C%EC%84%9C.swf )    
+
+*우리나라 승용자동차(여러분들이 타는거) 세금은 cc(배기량)으로 따진다. cc는 중요하다*
 
 ```
-배기량이나 기통수가 늘어나면 힘이 세진다
+배기량이나 기통수가 늘어나면 RPM이 세진다
 
 배기량 = 때리는 힘
 기통수 = 때리는 횟수
 ```
+~RPM이냐 토크냐 .. 헷갈리네~
 
-
-
-
-~엔진 뜨거워짐 -> 냉각수 필요~
-
-
-
+##### **엔진 뜨거워짐 -> 냉각수 필요** 로 이어진다.     
 
 ----
 
 > # 냉각장치
 
-
+[라디에이터 캡] [클러스터 ]
 
 
 
 >  # 엔진 구조
+전자제어 포함 엔진 그림.
+~*공기조절, 연료조절 수정중*~
 
-
+-> 엔진 
