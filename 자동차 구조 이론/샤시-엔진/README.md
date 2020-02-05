@@ -43,7 +43,7 @@
 ###### [발전기를 더 알고 싶다면](https://blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=221688737716&categoryNo=14&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=2)
 
 ---    
->  ## 엔진의 동작원리 
+>  ## 엔진의 동작원리 (흡-압-폭-배)
 #### ~밥통의 원리~
 
 앞 시간 엔진==밥통 이라는 것을 기억하자.
