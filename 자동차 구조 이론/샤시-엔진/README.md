@@ -106,7 +106,7 @@ A. 흡-압-폭-배 의 4행정에서, 피스톤이 움직이는 힘은 **압축*
 
 ![4기통순서](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/4%EA%B8%B0%ED%86%B5%20%EC%88%9C%EC%84%9C.png)
 
-##### 4기통 엔진 : **1342**가 4기통 엔진 때리는 순서.
+##### 4기통 엔진 : **1342**가 4기통 엔진 때리는 순서. [1342가 된 원리가 궁금하다면](https://blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=221759459611&categoryNo=14&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1)
 ##### 5기통 엔진 : (무쏘)는 **12453** 순서로 때림
 ###### (참조 : http://jwkang7.wo.to/pds04/EN-04%20%20%ED%81%AC%EB%9E%AD%ED%81%AC%EC%B6%95%EA%B3%BC%20%EC%A0%90%ED%99%94%EC%88%9C%EC%84%9C.swf )    
 
