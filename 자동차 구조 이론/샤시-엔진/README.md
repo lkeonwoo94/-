@@ -43,8 +43,10 @@
 * 흡기/배기 매니폴드 : 흡기=플라스틱 , 배기=쇠 (뜨거운 공기를 플라스틱이 감당하지 못한다)
 ```
 
-[몰라도 되는 인젝터, 터보차져]
-###### [발전기를 더 알고 싶다면](https://blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=221688737716&categoryNo=14&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=2)
+~[몰라도 되는 인젝터, 터보차져]~
+
+###### [발전기를 더 알고 싶다면](https://blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=221688737716&categoryNo=14&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=2) [pdf](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%95%8C%ED%84%B0%EB%84%A4%EC%9D%B4%ED%84%B0%20(Alternator)%20_%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8.pdf)
+
 
 ---    
 >  ## 엔진의 동작원리 (흡-압-폭-배)
