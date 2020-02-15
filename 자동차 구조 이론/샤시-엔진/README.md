@@ -18,6 +18,10 @@
 
 > ## 엔진 동작 시퀀스
 
+![시동시](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%8B%9C%EB%8F%99%EC%8B%9C.png)
+
+
+
     [전자제어]          [============================================기관구조학-엔진============================================]  
     ----------------------------------------------------------------------------------------------------------------------------
     (시동시스템)                                                           (시동 시 엔진RPM 700~800)
@@ -39,7 +43,7 @@
 * 흡기/배기 매니폴드 : 흡기=플라스틱 , 배기=쇠 (뜨거운 공기를 플라스틱이 감당하지 못한다)
 ```
 
-[키박스그림-플라이휠,벨트,얼터네이터(발전기) 그림 ] [클러스터 엔진rpm] [몰라도 되는 인젝터, 터보차져]
+[몰라도 되는 인젝터, 터보차져]
 ###### [발전기를 더 알고 싶다면](https://blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=221688737716&categoryNo=14&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=2)
 
 ---    
