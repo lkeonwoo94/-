@@ -43,6 +43,14 @@
 * 흡기/배기 매니폴드 : 흡기=플라스틱 , 배기=쇠 (뜨거운 공기를 플라스틱이 감당하지 못한다)
 ```
 
+```
+제너레이터 = 직류발전기 / 생산된 전기의 90%를 자가 소모 -> 효율이 10%
+얼터네이터 = 교류발전기 / 생산된 전기의 10%를 자가 소모 -> 효율이 90%. 그래서 현재는 교류발전기만 사용.
+
+발전기가 고장나면 다이오드가 고장난 것.
+브러쉬는 거의 고장 안남.
+```
+
 ~[몰라도 되는 인젝터, 터보차져]~
 
 ###### [발전기를 더 알고 싶다면](https://blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=221688737716&categoryNo=14&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=2) [pdf](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%95%8C%ED%84%B0%EB%84%A4%EC%9D%B4%ED%84%B0%20(Alternator)%20_%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8.pdf)
@@ -148,7 +156,6 @@ http://jwkang7.wo.to/pds01/118.htm
 라디에이터에는 라디에이터 캡이 있습니다. 라디에이터 캡은 **압력 스프링**이 있어 냉각수의 압력을 높이는 역할을 합니다. 압력을 높임으로써 냉각수의 끓는 점을 낮출 수 있습니다. 엔진의 온도가 올라가면 냉각수의 부피가 팽창하게 되는데, 라디에이터 캡을 통해 냉각수가 리저버 (resorvoir)로 빠져나가게 하여 냉각수가 넘치지 않게 리저버에 저장합니다. 엔진의 온도가 하강했을 때는 리저버에 있는 냉각수가 다시 라디에이터로 흘러나와 이전 상태로 돌아옵니다. 
 
 >  # 엔진 구조
-전자제어 포함 엔진 그림.
-~*공기조절, 연료조절 수정중*~
-
--> 엔진 전자제어
+전자제어 포함 엔진
+![전자제어 포함 엔진](https://github.com/lkeonwoo94/Automotive-Engineering/blob/master/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%EB%A1%A0/%EC%83%A4%EC%8B%9C-%EC%97%94%EC%A7%84/img/%EC%A0%84%EC%9E%90%EC%A0%9C%EC%96%B4.jpg)    
+=> [엔진 전자제어]
