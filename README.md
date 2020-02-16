@@ -43,3 +43,15 @@
 하이브리드차.
 연료전지차.
 
+---
+
+# ISO 26262 
+
+# AUTOSAR 4.1.1
+
+# AUTOMOTIVE 
+구독 : http://www.autoelectronics.co.kr/
+
+
+
+
