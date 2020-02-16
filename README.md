@@ -72,5 +72,7 @@ AUTOSAR 4.1.1의 최신기술과 이해
 구독 : http://www.autoelectronics.co.kr/
 
 
+# Vector Tool
 
+[CANoe, CANalyzer, CANape 사용법](https://www.youtube.com/user/vectorchannelKR/playlists)
 
