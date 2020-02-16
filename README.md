@@ -11,6 +11,7 @@
  강주원 자동차 홈 : http://www.jwkang7.wo.to/
  네이버블로그 : https://blog.naver.com/PostList.nhn?blogId=lagrange0115&from=postList&categoryNo=14
  수레닷컴 : http://www.surae.com/expert/library/edufiles/List.aspx?cd=EF05
+ 한국대학생자동차연합동아리 블로그 : http://blog.naver.com/PostView.nhn?blogId=kusarfirst&logNo=221136480529&categoryNo=41&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=2
  ```
  
 
