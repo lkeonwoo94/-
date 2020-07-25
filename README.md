@@ -55,8 +55,7 @@ ISO 26262 해외 가이드 라인 쉽게 이해하기
 3. [ISO 26262 Part4 가이드라인 - System](http://www.autoelectronics.co.kr/article/articleView.asp?idx=1571)
 4. [ISO 26262 Part5 가이드라인 - HW](http://www.autoelectronics.co.kr/article/articleView.asp?idx=1635)
 5. [ISO 26262 Part6 가이드라인 - SW](http://www.autoelectronics.co.kr/article/articleView.asp?idx=1666)
-
-
+6. [ISO 26262 SW Testing](http://www.autoelectronics.co.kr/article/articleView.asp?idx=993)
 
 # AUTOSAR 4.1.1
 
